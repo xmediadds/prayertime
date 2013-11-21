@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="PrayerTime" width="325" height="300" 
-
-scaling="false" />
+  <ModulePrefs title="PrayerTime" width="325" height="300" scaling="false" />
   <Content type="html">
   <![CDATA[
 <style>
